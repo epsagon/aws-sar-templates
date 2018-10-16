@@ -1,2 +1,2 @@
-# aws-sar-templates
-Epsagon's serverless application repository templates
+# Epsagon's AWS Serverless Application Repository Templates
+Code for all Epsagon's AWS SAR templates.

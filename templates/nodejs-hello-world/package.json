@@ -1,0 +1,33 @@
+{
+  "name": "epsagon-sar-template",
+  "version": "1.0.0",
+  "description": "A template for the serverless application repository for deploying a Lambda with Epsagon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epsagon/aws-sar-templates.git"
+  },
+  "keywords": [
+    "monitoring",
+    "observability",
+    "tracing",
+    "distributed-tracing",
+    "lambda",
+    "aws-lambda",
+    "serverless",
+    "faas",
+    "espagon"
+  ],
+  "author": "Epsagon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epsagon/aws-sar-templates/issues"
+  },
+  "homepage": "https://github.com/epsagon/aws-sar-templates#readme",
+  "dependencies": {
+    "epsagon": "^1.0.6"
+  }
+}
