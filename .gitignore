@@ -59,3 +59,13 @@ typings/
 
 # next.js build output
 .next
+
+# idea
+.idea/
+
+# python
+.pyc
+__pycache__/
+
+# packed yamls
+**packed.yaml
